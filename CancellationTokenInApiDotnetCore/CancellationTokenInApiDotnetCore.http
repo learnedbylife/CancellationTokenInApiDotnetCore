@@ -1,0 +1,6 @@
+@CancellationTokenInApiDotnetCore_HostAddress = http://localhost:5223
+
+GET {{CancellationTokenInApiDotnetCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
